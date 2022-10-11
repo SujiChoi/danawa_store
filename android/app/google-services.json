@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "156765538924",
+    "project_id": "danawatest-1ffb3",
+    "storage_bucket": "danawatest-1ffb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156765538924:android:e8a68db65468439743a649",
+        "android_client_info": {
+          "package_name": "com.example.danawa_store2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156765538924-rt1k3m52d3tiuifla2g1mellfne73bs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwTzLMDrkNxPCC4t4fKUtrbCa4Wq1W2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156765538924-rt1k3m52d3tiuifla2g1mellfne73bs4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156765538924-vvch31tv0ia495aktvbog8pqv54evo1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.danawaStore2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
