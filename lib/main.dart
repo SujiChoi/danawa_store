@@ -10,7 +10,6 @@ import 'package:firebase_in_app_messaging/firebase_in_app_messaging.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(options: DefaultFirebaseOptions.android);
   SharedPreferences preferences = await SharedPreferences.getInstance();
   String? storeList = preferences.getString('storeList');
   var storeType = preferences.getString('storeType');
